@@ -1,0 +1,669 @@
+:root
+{
+  --grayDark: rgba(44, 44, 36, 1);
+  --baseDarker: rgba(38, 38, 38, 1);
+  --baseDark: rgba(48, 48, 48, 1);
+  --darkless: rgba(97, 97, 97, 1);
+  --whiteTexts: rgba(204, 204, 204, 1);
+  --unknown1: rgba(178, 36, 36, 1);
+  --unknown2: rgba(255, 41, 41, 1);
+  --codeText: rgba(0, 153, 92, 1);
+  --linkText: rgba(110, 169, 242, 1);
+}
+
+body
+{
+  background-color: var(--baseDarker) !important;
+  color: var(--whiteTexts) !important;
+}
+
+/* Loaging Screen */
+.bzJiD:not(.eO2Zfd):before
+{
+  background-color: var(--baseDarker) !important;
+  opacity: 0.75 !important;
+}
+
+/* Header Bar */
+.DWzK6d
+{
+  background-color: var(--baseDark) !important;
+}
+
+/* Chat Logo */
+#XMLID_8_-Clipped
+{
+  fill: var(--whiteTexts) !important;
+  opacity: 0.7 !important;
+}
+
+/* Group Name */
+.dKv0S .i5PBGe
+{
+  color: var(--whiteTexts) !important;
+  opacity: 0.7 !important;
+}
+
+.i5PBGe.iWO5td,
+.i5PBGe:active,
+.i5PBGe:focus,
+.i5PBGe:hover
+{
+  background-color: var(--baseDark) !important;
+  color: var(--whiteTexts) !important;
+}
+
+.xzTN8b
+{
+  background-color: var(--baseDark) !important;
+}
+
+.i5PBGe:hover .xzTN8b,
+.i5PBGe:focus .xzTN8b,
+.i5PBGe.u3bW4e .xzTN8b,
+.i5PBGe.iWO5td .xzTN8b,
+.S6YNQd
+{
+  color: var(--whiteTexts) !important;
+  fill: var(--whiteTexts) !important;
+}
+
+.UZl8cf
+{
+  color: var(--whiteTexts) !important;
+}
+
+/* Switch Group Dropdown */
+.JPdR6b
+{
+  background-color: var(--baseDarker) !important;
+}
+
+/* Groups */
+.z80M1
+{
+  color: var(--whiteTexts) !important;
+}
+
+/* Groups Hoveunknown1 */
+.z80M1.FwR7Pc
+{
+  background-color: var(--baseDarker) !important;
+}
+
+/* Group Icons */
+.o50UJf
+{
+  fill: var(--whiteTexts) !important;
+}
+
+/* Search/Gear Icons */
+
+.Nj8aCb:hover,
+
+{
+  fill: var(--baseDark) !important;
+  background-color: var(--darkless) !important;
+  color: var(--baseDark) !important;
+}
+
+
+/* Feedback Wrapper */
+.TaudIc
+{
+  color: var(--base0) !important;
+  fill: var(--base0) !important;
+}
+
+/* Left Nav Bar Wrapper */
+.X9KLPc
+{
+  background-color: var(--baseDark) !important;
+  border-right-color: var(--baseDark) !important;
+}
+
+/* Find People Hover */
+.GbZFNe:focus,
+.GbZFNe:hover
+{
+  background-color: var(--baseDark) !important;
+}
+
+/* Group Label */
+.t5F5nf
+{
+  color: var(--whiteTexts) !important;
+}
+
+/* Group Label w/ New Message */
+.PL5Wwe.H7du2 .t5F5nf
+{
+  color: var(--whiteTexts) !important;
+}
+
+/* Group */
+.PL5Wwe:focus,
+.PL5Wwe:hover:not(.tuKyod),
+.tuKyod:hover .LoYJxb
+{
+  background-color: var(--baseDark) !important;
+}
+
+/* Selected Group */
+.PL5Wwe.KKjvXb:not(.tuKyod),
+.PL5Wwe.qs41qe:not(.tuKyod)
+{
+  background-color: var(--baseDark) !important;
+}
+
+.PL5Wwe.KKjvXb .t5F5nf,
+.PL5Wwe.KKjvXb .sFuxxd,
+.PL5Wwe.qs41qe .t5F5nf,
+.PL5Wwe.qs41qe .sFuxxd,
+.GSEpfc .t5F5nf
+{
+  color: var(--whiteTexts) !important;
+}
+
+/* Keyboard shortcut tooltip */
+.RM9ulf
+{
+  color: var(--baseDarker) !important;
+}
+
+.R8qYlc
+{
+  background-color: var(--whiteTexts) !important;
+}
+
+/* Left Add Person Bar */
+.d6pS5.i6oIBe .W2x1cc
+{
+  background: var(--baseDark) !important;
+}
+
+.D3DXDc
+{
+  fill: var(--whiteTexts) !important;
+}
+
+.Uk0Bfe .snByac
+{
+  color: var(--whiteTexts) !important;
+}
+
+.yoV6yd
+{
+  background: var(--baseDarker) !important;
+}
+
+.tOToeb
+{
+  border-bottom-color: var(--whiteTexts) !important;
+}
+
+.dQ2Tsf .NXfF8b,
+.dQ2Tsf .ZTmjQb
+{
+  color: var(--whiteTexts) !important;
+}
+
+.jAwRLb
+{
+  fill: var(--whiteTexts) !important;
+}
+
+/* Main Section */
+.WQKmIb .Bl2pUd,
+.Bl2pUd
+{
+  background-color: var(--baseDarker) !important;
+}
+
+.A2BXPe
+{
+  color: var(--whiteTexts) !important;
+}
+
+.ZlQIRd,
+.ZGAbn
+{
+  fill: var(--whiteTexts) !important;
+}
+
+.pihjkd
+{
+  color: var(--whiteTexts) !important;
+}
+
+/* Room Header */
+.tCUB4c
+{
+  color: var(--whiteTexts) !important;
+}
+
+/* Room Created Note */
+.qnDW3d
+{
+  color: var(--whiteTexts) !important;
+}
+
+/* Conversations */
+.dsoUjb
+{
+  background-color: var(--baseDarker) !important;
+}
+
+/* Convos in Groups */
+.WQKmIb .Bl2pUd .dsoUjb
+{
+  background-color: transparent !important;
+}
+
+.XbbXmb.zzVqCe .nF6pT,
+.jGyvbd .jO0Dzb
+{
+  background-color: transparent !important;
+}
+
+.oGsu4,
+.zPVzl
+{
+  background-color: transparent !important;
+}
+
+.cmEq8b .Zc1Emd,
+.cmEq8b .Z4BnXb,
+.zPVzl
+{
+  color: var(--whiteTexts) !important;
+}
+
+.nF6pT.FwR7Pc .Hj5Fxb,
+.hu21Y:hover
+{
+  background-color: var(--baseDarker) !important;
+}
+
+/* Message Group Icons */
+.orLAid
+{
+  fill: var(--whiteTexts) !important;
+  color: var(--whiteTexts) !important;
+}
+
+.orLAid:hover,
+.orLAid.u3bW4e
+{
+  fill: rgba(255, 255, 255, 0.54) !important;
+  color: rgba(255, 255, 255, 0.54) !important;
+}
+
+.nF6pT.FwR7Pc .orLAid,
+.hu21Y:hover .orLAid,
+.orLAid:focus
+{
+}
+
+/* Code Blocks */
+.FMTudf
+{
+  background-color: var(--baseDark) !important;
+  color: var(--whiteTexts) !important;
+  border-color: var(--base0) !important;
+}
+
+/* Notification Icon */
+.otWEZc
+{
+  fill: var(--unknown1) !important;
+}
+
+/* New Message Box */
+.bzJiD .IEIJqd,
+.IEIJqd
+{
+  background-color: var(--baseDarker) !important;
+}
+
+.BScnzc
+{
+  color: var(--whiteTexts) !important;
+}
+
+.XweIZc
+{
+  color: var(--whiteTexts) !important;
+}
+
+/* Reply Box */
+.vmpzOc.eO2Zfd
+{
+  background-color: var(--baseDarker) !important;
+}
+
+/**/
+.lljjAe.X0MG1d {
+    color: var(--unknown2) !important;
+}
+
+/* Applique la même couleur de fond pour la div sur notre photo */
+.gb_jb.gb_bd.gb_Pg.gb_R.gb_Mb {
+  background: var(--baseDark) !important;
+}
+
+.deR9Se, .IFk8Lb {
+  display: none !important;
+}
+
+/* Menu du haut */
+.QTQg5e {
+  background: inherit !important;
+  border-bottom: none !important;
+}
+
+span.nk7hB, .aOHsTc, .t5F5nf {
+  color: inherit !important;
+}
+
+/* div qui englobe le chat */
+.byY7Yb.cFc9ae {
+  background: var(--baseDarker) !important;
+}
+
+div.EFNTcf svg {
+  fill: #5f6368 !important;
+}
+
+div.IEIJqd.vbJQj.Myox3c.qs41qe {
+  padding-top: 0 !important;
+}
+
+.dJ9vNe {
+  background: var(--baseDarker) !important;
+}
+
+.cAW0Vc {
+  color: inherit !important;
+}
+
+.U8d2H {
+  background-color: transparent !important;
+}
+
+/* Begin non-copied changes */
+
+/* Login Page */
+.card,
+.LJtPoc
+{
+  background-color: transparent !important;
+}
+
+.KSYbxc
+{
+  background-color: var(--baseDark) !important;
+}
+
+/* New Thread Button */
+.SfqTBc
+{
+  background-color: var(--baseDark) !important;
+}
+
+.aVw1Ob
+{
+  color: var(--whiteTexts) !important;
+}
+
+.lSSahb .jy2fzc
+{
+  color: var(--base0) !important;
+}
+
+/* Browse Rooms List */
+
+.HVbdb
+{
+  background-color: var(--baseDarker) !important;
+}
+
+.Xs68kb
+{
+  background-color: var(--baseDark) !important;
+}
+
+.SXT4Yd,
+.Wic03c
+{
+  background-color: var(--baseDarker) !important;
+}
+
+.RsND2b,
+.zHQkBf
+{
+  color: var(--whiteTexts) !important;
+}
+
+.z2ikE
+{
+  color: var(--whiteTexts) !important;
+}
+
+.mIZh1c
+{
+  background-color: transparent !important;
+}
+
+.e3Duub.RDPZE.RDPZE
+{
+  background-color: var(--baseDarker) !important;
+}
+.W55R9c, .JMZuue, .PGrLhd {
+  background-color: var(--baseDarker) !important;
+}
+.opGBjd, .pWhTUc {
+  background-color: var(--baseDarker) !important;
+}
+.wbJc4 {
+  background-color: var(--baseDark) !important;
+}
+.rFrNMe:not(.Xavc3e) .Wic03c {
+  border-top-left-radius: 0px !important;
+    border-top-right-radius: 0px !important;
+    height: 100% !important;
+}
+.W9bYdf {
+  color: #5f6368 !important;
+}
+/* left nav open color*/
+.hU65Ef
+{
+  background-color: var(--baseDarker) !important;
+}
+
+.ReIHZc .ZTmjQb
+{
+  color: var(--whiteTexts) !important;
+}
+
+.Riuhhf
+{
+border-right: none !important;
+}
+
+.Nj8aCb.Nj8aCb
+{
+  color: var(--whiteTexts) !important;
+  fill: var(--whiteTexts) !important;
+
+}
+/*left nav open*/
+.GbZFNe, .d6pS5:not(.gUxhRe) .uDjj8c
+{
+	box-shadow: none !important;
+	background-color: var(--baseDarker) !important;
+}
+
+.GbZFNe:focus, .GbZFNe:hover, .GbZFNe:hover:focus
+{
+	box-shadow: none !important;
+	background-color: var(--baseDarker) !important;
+}
+
+.s6FlWd
+{
+	color: var(--whiteTexts) !important;
+}
+
+.ffyVOd
+{
+  background-color: var(--baseDarker) !important;
+  opacity: 0.99 !important;
+}
+/*google apps icon */
+.gb_C .gb_D
+{
+	background-position: 0px -138px !important;
+}
+
+/*chat titles */
+.nk7hB, .wWf0Bc, .nk7hB .cAW0Vc
+{
+	color: var(--whiteTexts) !important;
+}
+
+/*Loading */
+.CMcgue.JpY6Fd
+{
+	background-color: var(--baseDark) !important;
+	opacity: 0.6 !important
+}
+
+/*WIP login */
+.VmOpGe
+{
+	background-color: var(--baseDarker) !important;
+}
+/*gear icon */
+.JRtysb:hover .snByac
+{
+	fill: var(--whiteTexts) !important;
+}
+
+.XganBc
+{
+	background-color: var(--baseDark) !important;
+}
+.I0LFzc
+{
+	background-color: var(--baseDark) !important;
+}
+/*.cZICLc .dsoUjb.*/
+.FwR7Pc {
+    border-color: var(--baseDark) !important;
+    box-shadow: none !important;
+   
+}
+.cZICLc:hover .dsoUjb
+{
+    border-color: var(--baseDark) !important;
+    box-shadow: none !important;
+   
+}
+
+.dsoUjb
+{
+    border-color: var(--baseDark) !important;
+    box-shadow: none !important;
+   
+}
+
+.FMTudf 
+{
+color: var(--codeText) !important;
+}
+
+a
+{
+color: var(--linkText) !important;
+}
+
+.DhXgkb>.ee222e, .aPoydb>.aPoydb, .aPoydb>.PsLcIe
+{
+  background-color: var(--baseDark) !important;
+}
+
+.aPoydb>.wihFxe
+{
+  color: var(--linkText) !important;
+}
+
+.BrQiad
+{
+  max-width: none !important;
+}
+
+span
+{
+color: var(--whiteTexts) !important;
+}
+
+.FC9ioc.munA7e
+{
+  color: black !important;
+}
+
+.LrM3We
+{
+  color: black !important;
+}
+
+.njhDLd
+{
+  color: rgba(131, 166, 206, 1) !important;
+}
+
+.U8d2H 
+{
+    background-color: var(--grayDark) !important;
+    color: var(--codeText) !important;
+}
+
+.zZ3s4 
+{
+  background-color: var(--baseDark) !important;
+}
+
+.Tl0u0c
+{
+  border-radius: 10px !important;
+  background-color: var(--baseDark) !important;
+}
+
+.g3VIld
+{
+  background-color: var(--baseDarker) !important;
+}
+
+.gb_J
+{
+    background-color: var(--baseDark) !important;
+}
+
+.AzykZd
+{
+   background-color: var(--baseDark) !important;
+}
+
+.SXT4Yd
+{
+   background-color: var(--darkless) !important;
+}
+
+.I0LFzc 
+{
+   background-color: var(--baseDark) !important;
+}
+
+

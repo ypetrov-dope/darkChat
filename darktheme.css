@@ -130,10 +130,10 @@ body
 }
 
 /* Group Label */
-/*.t5F5nf
+.t5F5nf
 {
   color: var(--whiteTexts) !important;
-}*/
+}
 
 /* Group */
 .PL5Wwe:focus,
@@ -663,5 +663,5 @@ color: var(--whiteTexts) !important;
 /* Group Label w/ New Message */
 .PL5Wwe.H7du2 .t5F5nf
 {
-  color: rgba(187, 68, 68, 1) !important;
+  color: red !important;
 }

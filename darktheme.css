@@ -135,12 +135,6 @@ body
   color: var(--whiteTexts) !important;
 }
 
-/* Group Label w/ New Message */
-.PL5Wwe.H7du2 .t5F5nf
-{
-  color: rgba(187, 68, 68, 1) !important;
-}
-
 /* Group */
 .PL5Wwe:focus,
 .PL5Wwe:hover:not(.tuKyod),
@@ -664,4 +658,10 @@ color: var(--whiteTexts) !important;
 .I0LFzc 
 {
    background-color: var(--baseDark) !important;
+}
+
+/* Group Label w/ New Message */
+.PL5Wwe.H7du2 .t5F5nf
+{
+  color: rgba(187, 68, 68, 1) !important;
 }

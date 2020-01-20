@@ -138,7 +138,7 @@ body
 /* Group Label w/ New Message */
 .PL5Wwe.H7du2 .t5F5nf
 {
-  color: var(--whiteTexts) !important;
+  color: --rgba(187, 68, 68, 1) !important;
 }
 
 /* Group */
@@ -665,5 +665,3 @@ color: var(--whiteTexts) !important;
 {
    background-color: var(--baseDark) !important;
 }
-
-

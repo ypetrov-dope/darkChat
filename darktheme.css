@@ -621,7 +621,7 @@ color: var(--whiteTexts) !important;
 
 .njhDLd
 {
-  color: rgba(131, 166, 206, 1) !important;
+  color: var(--whiteTexts) !important;
 }
 
 .U8d2H 

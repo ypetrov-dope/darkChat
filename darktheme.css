@@ -687,3 +687,13 @@ color: var(--whiteTexts) !important;
 {
   color: #e6ffe5 !important;
 }
+
+.RASpke:hover
+{
+  background: none !important;
+}
+
+.RASpke
+{
+  border: none !important;
+}

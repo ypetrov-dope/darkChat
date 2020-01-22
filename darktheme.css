@@ -697,3 +697,8 @@ color: var(--whiteTexts) !important;
 {
   border: none !important;
 }
+
+.fWwrkf {
+    color: #00796b !important;
+    font-weight: 900 !important;
+}
